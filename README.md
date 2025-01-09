@@ -45,6 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 <img width="1469" alt="Screenshot 2025-01-09 at 11 11 43" src="https://github.com/user-attachments/assets/3d4b2d9b-2009-4c5a-8049-a30550a80049" />
 <img width="1465" alt="Screenshot 2025-01-09 at 11 11 24" src="https://github.com/user-attachments/assets/ec07357e-be47-4ecd-965a-8b8b2e927ee6" />
 
+Mock login UserName: admin, Password: P@ssword
 
 ## Learn More
 
